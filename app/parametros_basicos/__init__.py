@@ -1,0 +1,1 @@
+from .pipeline_pb import pipeline_gerar_todas_tarefas_e_operacoes
